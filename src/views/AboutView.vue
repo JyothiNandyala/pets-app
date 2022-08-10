@@ -1,5 +1,37 @@
 <template>
   <div class="about">
-    <h1>This is an about page</h1>
+    <p>
+      Two of the most popular pets are dogs and cats. Other animals commonly
+      kept include rabbits; ferrets; pigs; rodents such as gerbils, hamsters,
+      chinchillas, rats, mice, and guinea pigs; digital pets such as
+      tamagotchis; avian pets such as parrots, passerines, and fowls; reptile
+      pets such as turtles, alligators, crocodiles, lizards, and snakes; aquatic
+      pets such as fish, freshwater snails, and saltwater snails; amphibians
+      such as frogs and salamanders; and arthropod pets such as tarantulas and
+      hermit crabs. Small pets may be grouped together as pocket pets, while the
+      equine and bovine group include the largest companion animals.
+    </p>
+    <p>
+      Pets provide their owners (or "guardians")[1] both physical and emotional
+      benefits. Walking a dog can provide both the human and the dog with
+      exercise, fresh air, and social interaction. Pets can give companionship
+      to people who are living alone or elderly adults who do not have adequate
+      social interaction with other people. There is a medically approved class
+      of therapy animals, mostly dogs or cats, that are brought to visit
+      confined humans, such as children in hospitals or elders in nursing homes.
+      Pet therapy utilizes trained animals and handlers to achieve specific
+      physical, social, cognitive, or emotional goals with patients.
+    </p>
+    <p>
+      People most commonly get pets for companionship, to protect a home or
+      property or because of the perceived beauty or attractiveness of the
+      animals.[2] A 1994 Canadian study found that the most common reasons for
+      not owning a pet were lack of ability to care for the pet when traveling
+      (34.6%), lack of time (28.6%), and lack of suitable housing (28.3%), with
+      dislike of pets being less common (19.6%).[2] Some scholars, ethicists,
+      and animal rights organizations have raised concerns over keeping pets
+      because of the lack of autonomy and the objectification of non-human
+      animals.[
+    </p>
   </div>
 </template>
